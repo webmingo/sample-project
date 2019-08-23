@@ -7,25 +7,18 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>This is your first app on Stormkit.</p>
+        <p>Sample project for you to show a sample deployment</p>
         <div>
-          <a
-            className="App-link"
-            href="https://www.stormkit.io/docs"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read the docs
-          </a>{" "}
-          |{" "}
-          <a
-            href="https://github.com/stormkit-dev/sample-project"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="App-link"
-          >
-            Fork the repo
-          </a>{" "}
+          
+            Project description:
+            Have you ever deployed/hosted a site on 
+            www.stormkit.io
+             ? It's serverless architecture and you just have to signup with your git account to deploy a project from in just a few seconds. It's simple and it's free. Can you create an account on 
+            www.stormkit.io
+            and try to deploy something?
+            If you manage to deploy something please send the url of the deployment and then we can discuss the project. Please try 
+            www.stormkit.io
+            and let me know if this is something you can work 
         </div>
       </header>
     </div>
